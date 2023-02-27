@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "82637147695",
+    "project_id": "kidzoodb",
+    "storage_bucket": "kidzoodb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82637147695:android:7dc5e1cbb9434f0997c0da",
+        "android_client_info": {
+          "package_name": "com.KidZoo.appname"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82637147695-qh2mmc65v33toou2a8sg7bnfbe8i0tsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbFlX90OG0lohggNZuwY4dh3Na4NVGU44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82637147695-qh2mmc65v33toou2a8sg7bnfbe8i0tsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
